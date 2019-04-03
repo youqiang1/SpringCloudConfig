@@ -15,5 +15,4 @@ spring:
       naming:
         physical-strategy: org.hibernate.boot.model.naming.PhysicalNamingStrategyStandardImpl
     show-sql: true
-pro:
-  test: hello world
+test: hello world
